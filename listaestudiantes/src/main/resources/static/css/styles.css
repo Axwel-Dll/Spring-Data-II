@@ -1,0 +1,73 @@
+* {
+	margin: 0;
+	padding: 0;
+	border-color: black;
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+h1 {
+	font-size: 3.5rem;
+	margin-bottom: 40px;
+}
+
+h2 {
+	display: flex;
+	margin-bottom: 15px;
+
+}
+
+#student {
+	width: 14rem;
+	font-size: 1.2rem;
+	margin-left: 4rem;
+
+}
+
+#btn {
+	margin-left: 10.4rem;
+	font-size: 1.4rem;
+	font-weight: bold;
+	box-shadow: 2px 2px 2px black;
+}
+
+#btn2 {
+	margin-left: 4rem;
+	font-size: 1.2rem;
+	font-weight: bold;
+	box-shadow: 2px 2px 2px black;
+	margin-top: 1rem;
+}
+
+form label {
+	flex: 0 0 150px;
+	margin-right: 1rem;
+}
+
+#container {
+	width: 90rem;
+	height: 47rem;
+	margin: 3rem auto;
+}
+
+input {
+	width: 8rem;
+	font-size: 1rem;
+}
+
+table,
+th {
+	border: 3px solid black;
+}
+
+td {
+	border-right: 3px solid black;
+	padding: 8px;
+}
+
+tr th {
+	background-color: #CCCCCC;
+}
+
+.table {
+	width: 60%;
+}
