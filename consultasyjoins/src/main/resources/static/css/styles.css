@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;
+	border-color: black;
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+table,
+th {
+	border: 3px solid black;
+}
+
+td {
+	border-right: 3px solid black;
+	padding: 8px;
+	font-size: 1.4rem;
+}
+
+tr th {
+	background-color: #CCCCCC;
+}
+
+.table {
+	width: 75%;
+}

@@ -1,0 +1,42 @@
+* {
+	margin: 0;
+	padding: 0;
+	border-color: black;
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+h1 {
+	font-size: 3.5rem;
+	margin-bottom: 40px;
+}
+
+h2 {
+	display: flex;
+	margin-bottom: 15px;
+	margin: 3rem;
+}
+
+table,
+th {
+	border: 3px solid black;
+}
+
+td {
+	border-right: 3px solid black;
+	padding: 8px;
+	font-size: 1.4rem;
+}
+
+tr th {
+	background-color: #CCCCCC;
+}
+
+.container {
+	width: 90rem;
+	height: 47rem;
+	margin: 3rem auto;
+}
+
+#newquestion{
+	font-size: 1.4rem;
+}

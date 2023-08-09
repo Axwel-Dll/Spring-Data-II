@@ -1,0 +1,59 @@
+* {
+	margin: 0;
+	padding: 0;
+	border-color: black;
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+h1 {
+	font-size: 3.5rem;
+	margin-bottom: 40px;
+}
+
+h2 {
+	display: flex;
+	margin-bottom: 15px;
+	margin: 3rem;
+}
+
+table,
+th {
+	border: 3px solid black;
+}
+
+td {
+	border-right: 3px solid black;
+	padding: 8px;
+	font-size: 1.4rem;
+}
+
+tr th {
+	background-color: #CCCCCC;
+}
+
+.tags-heading {
+	display: inline-block;
+	margin-right: 10px;
+}
+.input-square {
+	width: 100%;
+	height: 150px;
+}
+.submit-button {
+	display: block;
+	margin: 10px 0;
+	margin-left: 27.5rem;
+}
+.dashboard-link {
+	position: absolute;
+	top: 0;
+	right: 0;
+	font-size: 1.5rem;
+	margin-right: 2rem;
+}
+
+.table-striped td {
+    max-width: 300px; 
+    white-space: normal; 
+    overflow-wrap: break-word; 
+}
